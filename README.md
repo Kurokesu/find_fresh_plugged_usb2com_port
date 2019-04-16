@@ -6,3 +6,4 @@ Provided as test application, can be easily adapted for automated tasks.
 * Plug USB device
 * Script will display new port
 
+![screenshot](compare.png)
